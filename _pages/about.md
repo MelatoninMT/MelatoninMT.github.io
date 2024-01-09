@@ -22,8 +22,10 @@ Education
 
 Hobbies
 -----------
-*Badminton
-*Tennis
+* Badminton
+* Tennis
+* Video games
+* Music
 
 Contact
 -----------
