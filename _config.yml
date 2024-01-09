@@ -5,6 +5,16 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# 其他配置项
+title: My Awesome Site
+description: A site about something awesome
+author: Your Name
+
+# 指定使用的主题
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Yunfei Liu"
