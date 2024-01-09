@@ -16,6 +16,7 @@ My research interests primarily focus on disease burden among children and adole
 
 Education
 -----------
+* PhD student in Maternal, Child and Adolescent Health, [Peking University](https://www.pku.edu.cn/), Sep.2022 -- Now
 * M.S. in Maternal, Child and Adolescent Health, [Peking University](https://www.pku.edu.cn/), Sep.2020 -- Jul.2022
 * B.S. in Economics, [Peking University](https://www.pku.edu.cn/), Sep.2016 -- Jul.2020
 * B.S. in Medicine, [Peking University](https://www.pku.edu.cn/), Sep.2015 -- Jul.2020
