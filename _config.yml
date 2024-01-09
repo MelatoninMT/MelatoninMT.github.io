@@ -11,8 +11,8 @@ description: A site about something awesome
 author: Your Name
 
 # 指定使用的主题
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#theme: minimal-mistakes-jekyll
+#minimal_mistakes_skin: "air" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Site Settings
