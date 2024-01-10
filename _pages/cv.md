@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Medicine in School of Public Health, Peking University, 2020
+* Bachelor of Economics in National School of Development, Peking University, 2020
+* Master of Science in Institute of Child and Adolescent Health, Peking University, 2022
+* Ph.D in Institute of Child and Adolescent Health, Peking University, 2026 (expected)
 
 Work experience
 ======
