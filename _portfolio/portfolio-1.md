@@ -1,6 +1,6 @@
 ---
 title: "The Olympics tower"
-excerpt: "This photo was taken at the Olympics forest park, Beijing<br/><img src='/images/Olympics tower.jpg'>"
+excerpt: "This photo was taken at the Olympic forest park, Beijing<br/><img src='/images/Olympics tower.jpg'>"
 collection: album
 ---
 <img src='/images/Olympics tower.jpg'>
