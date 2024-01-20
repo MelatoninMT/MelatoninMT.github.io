@@ -30,4 +30,4 @@ Hobbies
 
 Contact
 -----------
-liuyunfei_pku@163.com
+liuyunfei_pku AT 163 DOT com
