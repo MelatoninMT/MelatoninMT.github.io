@@ -201,10 +201,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # _portfolio
   - scope:
       path: ""
-      type: pages
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -217,10 +217,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _album
+  # _cv
   - scope:
       path: ""
-      type: album
+      type: cv
     values:
       layout: single
       author_profile: true
