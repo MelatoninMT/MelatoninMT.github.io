@@ -1,7 +1,7 @@
 ---
-title: "The Olympics tower"
-excerpt: "This photo was taken at the Olympic forest park, Beijing<br/><img src='/images/20231119-Beijing.jpg'>"
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-<img src='/images/20231119-Beijing.jpg'>
- God said, "Let there be light," and there was light.
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

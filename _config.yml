@@ -208,6 +208,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
+      comment: true
   # _publications
   - scope:
       path: ""
