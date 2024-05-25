@@ -28,7 +28,8 @@ RESEARCH INTERESTS
 HONORS & AWARDS
 ======
 * Award for scientific research (Peking University)                                  2023.12
-* National Academic Scholarship (Second Prize, Peking University)     2021.12 * National Academic Scholarship (Second Prize, Peking University)     2020.12
+* National Academic Scholarship (Second Prize, Peking University)     2021.12
+* National Academic Scholarship (Second Prize, Peking University)     2020.12
 
 
 
@@ -40,7 +41,21 @@ Publications
 
 
 
-MISCELLANEOUS
+Softwares
 ======
-* Softwares: R, STATA, SPSS, Epidata, Tableau, DaVinci Resolve.
-* Interests: Badminton, Tennis, Listening to music, Hiking. 
+* R
+* STATA
+* SPSS
+* Epidata
+* Tableau
+* DaVinci Resolve
+
+
+Exercise
+======
+* Badminton
+* Tennis 
+
+
+
+
