@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /publication/CV_LYF-20240525
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
