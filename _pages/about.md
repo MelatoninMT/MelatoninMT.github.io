@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an PhD student in the institute of child and adolescent, Peking University.
+I am an PhD student in the institute of child and adolescent, Peking University, and a visiting researcher in the Centre for Adolescent Health, Murdoch Children’s Research Institute.
 
 Research Interests
 -----------
@@ -16,15 +16,16 @@ My research interests primarily focus on disease burden among children and adole
 
 Education
 -----------
-* PhD student in Maternal, Child and Adolescent Health, [Peking University](https://www.pku.edu.cn/), Sep.2022 -- Now
+* PhD student in Maternal, Child and Adolescent Health, [Peking University](https://www.pku.edu.cn/), Aug.2022 -- Now
+* Visiting Researcher in Centre for Adolescent Health, Murdoch Children’s Research Institute, Oct.2024 -- Now
 * M.S. in Maternal, Child and Adolescent Health, [Peking University](https://www.pku.edu.cn/), Sep.2020 -- Jul.2022
 * B.S. in Economics, [Peking University](https://www.pku.edu.cn/), Sep.2016 -- Jul.2020
 * B.S. in Medicine, [Peking University](https://www.pku.edu.cn/), Sep.2015 -- Jul.2020
 
 Hobbies
 -----------
-* Badminton
 * Tennis
+* Badminton
 * Video games
 * Music
 
