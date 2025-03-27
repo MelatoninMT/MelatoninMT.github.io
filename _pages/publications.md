@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: fault
+author_profile: true
 ---
 
 {% if author.googlescholar %}
