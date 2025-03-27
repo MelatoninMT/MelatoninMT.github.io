@@ -2,7 +2,7 @@
 permalink: /
 title: "Welcome to my personal website"
 excerpt: "About me"
-author_profile: true
+author_profile: fault
 redirect_from: 
   - /about/
   - /about.html
