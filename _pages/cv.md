@@ -48,12 +48,10 @@ Softwares
 * SPSS
 * Epidata
 * Tableau
-* DaVinci Resolve
 
 
 Exercise
 ======
-* Badminton
 * Tennis 
 
 

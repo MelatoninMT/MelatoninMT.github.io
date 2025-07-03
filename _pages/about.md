@@ -25,7 +25,6 @@ Education
 Hobbies
 -----------
 * Tennis
-* Badminton
 * Video games
 * Music
 
